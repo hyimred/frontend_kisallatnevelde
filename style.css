@@ -1,0 +1,16 @@
+button.clear {
+    width: 30%;
+    height: 100%;
+}
+
+.row {
+    justify-content: center;
+    text-align: center;
+}
+
+img {
+    width: 30%;
+}
+ #ossz {
+    font-style: italic;
+ }
