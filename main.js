@@ -5,6 +5,7 @@ const kaja = {
 };
 
 let ossz = 0;
+document.getElementById('ossz').textContent = ossz;
 
 document.getElementById('food1').onclick = hozzaad1;
 document.getElementById('food2').onclick = hozzaad2;
